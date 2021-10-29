@@ -1,2 +1,2 @@
 # L-JS
-Javascript
+Catatan javascript lanjutan
