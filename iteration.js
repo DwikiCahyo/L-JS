@@ -11,6 +11,10 @@ for(let i = 0; i < nama.length;i++){
 //menggunakan foreach
 nama.forEach( m => console.log(m));
 
+// nama.forEach(m=>{  //  foreach menggunakan function
+//     //isi function 
+// })
+
 //menggunakna for of
 for(const m of nama){
     console.log(m)
