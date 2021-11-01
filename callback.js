@@ -13,7 +13,8 @@ function tampilkanpesan(callback){ // memanggil parameter fungsi sebelumnya
    callback(nama ,umur)//deklarasi paramameter fungsi
 }
 
-// tampilkanpesan(hallo);//parameter fungsin dipanggil ( urutann  stack pertama)
+tampilkanpesan(hallo);//parameter fungsin dipanggil ( urutann  stack pertama)
+
 tampilkanpesan((nama,umur) => {
     alert(`Halo ${nama} , ${umur}`);
 }) //  contoh menggunakan arrow function
