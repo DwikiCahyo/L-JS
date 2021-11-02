@@ -1,2 +1,2 @@
 # L-JS
-Catatan javascript lanjutan
+Catatan javascript Tutorial Javascript
